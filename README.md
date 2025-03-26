@@ -1,16 +1,7 @@
-### Hi there 👋
-* 👂 My name is Ēriks Boka
-* 🔭 I’m currently working on multiple projects at the same time, most of which are Unity games.
-* 🌱 I’m currently learning C# and Python
-* 💬 Ask me about anything!
-* 📫 How to reach me:
-    - Discord: @redwolfninja_
-    - Email: e@boka.lv
-* ❤️ I love programming and game development
-
-
+# About Me
 ```csharp
-using About;
+using System;
+using System.Collections.Generic;
 
 namespace GitHub
 {
@@ -58,8 +49,9 @@ namespace GitHub
             educations.Add("2022-2025", "Rīgas Purvciema vidusskola"); // Secondary School
 
         Dictionary<string, string> contacts = new Dictionary<string, string>();
-            contacts.Add("Discord", "@redwolfninja_"); // Primary School
-            contacts.Add("LinkedIn", "[Ēriks Boka](https://www.linkedin.com/in/eriksboka/)"); // Secondary School
+            contacts.Add("Discord", "@redwolfninja_");
+            contacts.Add("LinkedIn", "https://www.linkedin.com/in/eriksboka/");
+            contacts.Add("Email", "e@boka.lv");
 
         
     }
