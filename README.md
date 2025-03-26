@@ -37,11 +37,12 @@ namespace GitHub
         {
             "Communication",
             "Multilingual",
+            "Dedication",
             "Teamwork",
-            "Responsible",
-            "Reasonable",
-            "Supportive",
-            "Passionate"
+            "Computer knowledge",
+            "Programming",
+            "Agile",
+            "MS Office"
         };
 
         Dictionary<string, string> educations = new Dictionary<string, string>();
