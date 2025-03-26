@@ -52,7 +52,6 @@ namespace GitHub
             contacts.Add("Discord", "@redwolfninja_");
             contacts.Add("LinkedIn", "https://www.linkedin.com/in/eriksboka/");
             contacts.Add("Email", "e@boka.lv");
-
         
     }
   }
